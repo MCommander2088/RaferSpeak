@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --windowed --add-data "G:\codes\RaferSpeak\UI.py;."  "G:\codes\RaferSpeak\client.py"

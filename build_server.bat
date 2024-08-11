@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --add-data "G:\codes\RaferSpeak\server.py;." --add-data "G:\codes\RaferSpeak\timeserver.py;."  "G:\codes\RaferSpeak\MainServer.py"
